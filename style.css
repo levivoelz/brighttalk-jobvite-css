@@ -1,0 +1,19 @@
+.jvcontainer h2 {
+  color: #f4a56b;
+  font-size: 28px;
+  font-weight: normal; 
+}
+
+.jvcontainer {
+  color: #4d4d4d;
+}
+
+.jvcontainer h3 {
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+.jvheader {
+  display: none;
+}
